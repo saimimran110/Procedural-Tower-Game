@@ -1,0 +1,22 @@
+# User-specific files
+.idea/
+.vs/
+.vscode/
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+.vs/
+.vscode/
+.gradle/
+
+# User-specific files
+.user
+.userprefs
